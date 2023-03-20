@@ -1,17 +1,16 @@
 {
-  "greeting": "Xin Chào",
+  "greeting": "Chào mừng ",
   "name": "Xuân Hân",
-  "greetingText": "Tôi thật sự thích tên của bạn đấy btw!",
-  "wishText": "Hãy lun vui vẻ và xinh đẹp như này nha! ;)",
-  "imagePath": "img/lydia2.png",
-  "text1": "Đó là ngày sinh nhật của bạn!!! :D",
-  "textInChatBox": "Chúc mừng sinh nhật!! Yeee! Nhiều nhiều hạnh phúc blah...",
+  "greetingText": "Tôi rất thích cái tên của bạn!",
+  "wishText": "Mong là sẽ vẫn lun xinh đẹp như này nha! ;)",
+  "text1": "Hôm nay là sinh nhật của bạn!!! :D",
+  "textInChatBox": "Chúc mừng sinh nhật!! Yeee! Rất rất nhiều...",
   "sendButtonLabel": "Send",
-  "text2": "Đó là những gì tôi muốn làm.",
+  "text2": "Đó là những gì tôi sẽ làm.",
   "text3": "Nhưng rồi tôi dừng lại.",
-  "text4": "  Tôi nhận ra, tôi muốn làm một cái gì đó",
-  "text4Adjective": "Đặc Biệt",
-  "text5Entry": "Bởi vì,",
+  "text4": "Tôi nhận ra, tôi muốn làm một cái gì đó",
+  "text4Adjective": "Thật đặc biệt",
+  "text5Entry": "Bởi Vì,",
   "text5Content": "You are Special",
   "smiley": ":)",
   "bigTextPart1": "Nên",
@@ -20,4 +19,5 @@
   "outroText": "Được rồi, bây giờ hãy quay lại và cho tôi biết nếu bạn thích nó.",
   "replayText": "Hoặc bấm vào, nếu bạn muốn xem lại.",
   "outroSmiley": ":)"
+  
 }
