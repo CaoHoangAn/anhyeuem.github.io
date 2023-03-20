@@ -10,7 +10,12 @@
         <link rel="stylesheet" href="./css/pp.css" />
     </head>
     <body class="page__main">
-       
+        <picture>
+            <source srcset="./img/background.png" media="(max-width: 60px)">
+            <source srcset="./img/background.png" media="(max-width: 1000px)">
+            <source srcset="background.png">
+             <img src="img/background.png">
+          </picture>
         <form method="get" action="timeline.html">
             <button style="background-color:pink; border-color:whitesmoke;font-size: 75px;border-radius: 25px;position: absolute;  top: 45%;  left: 44%; color:black">Ấn vào đây</button>
         </form>
