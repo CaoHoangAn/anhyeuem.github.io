@@ -21,6 +21,7 @@ a {
     padding: 0;
     background-size: cover;
     background-position-y: fill;
+    background-attachment: fixed;
     
 }
 .buttons {
