@@ -8,10 +8,16 @@ html {
 a {
     text-decoration: none;
 }
+ @media screen and (min-width: 240px){
+
+} 
 .nut-an {
     height: 50px;
     width: 100px;
     margin: cách_bên_trên auto;
+    display: flex;
+    column-gap: 3rem;
+    padding: 2rem;
 }
 .page__main {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
