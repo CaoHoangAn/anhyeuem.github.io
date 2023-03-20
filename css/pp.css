@@ -8,7 +8,11 @@ html {
 a {
     text-decoration: none;
 }
-
+.nut-an {
+    height: 50px;
+    width: 100px;
+    margin: cách_bên_trên auto;
+}
 .page__main {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
     background-image: url("../img/background.png");
@@ -16,7 +20,8 @@ a {
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-position-y: -13rem;
+    background-position-y: fill;
+    
 }
 .buttons {
     display: flex;
