@@ -7,17 +7,15 @@ html {
 
 a {
     text-decoration: none;
-    /*Smart phone*/
-    @media screen and (max-width: 320px){}
+}
 .nut-an {
     height: 50px;
     width: 100px;
     margin: cách_bên_trên auto;
 }
 .page__main {
-    /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì tại đây */
+    /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
     background-image: url("../img/background.png");
-    Style="max-width:100%; height:auto"
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
@@ -26,7 +24,6 @@ a {
     background-size: cover;
     object-fit: cover;
     background-attachment: fixed;
-    
     
 }
 .buttons {
