@@ -18,6 +18,15 @@ a {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì tại đây */
     background-image: url("../img/background.png");
     Style="max-width:100%; height:auto"
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-position-y: cover;
+    padding: 25px;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+    
     
 }
 .buttons {
