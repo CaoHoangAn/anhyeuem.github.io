@@ -16,12 +16,7 @@ a {
 .page__main {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
     background-image: url("../img/background.png");
-    background-repeat: no-repeat;
-    margin: 0;
-    padding: 0;
-    background-size: cover;
-    background-position-y: fill;
-    background-attachment: fixed;
+    Style="max-width:100%; height:auto"
     
 }
 .buttons {
