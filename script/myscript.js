@@ -2,7 +2,10 @@ $('.start').bind("click",function(){
     $('.stage1').fadeOut();
     fire_modal('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/cake_modal.png','Hãy làm một chiếc bánh!','Vì hôm nay là sinh nhật của bạn, tôi thấy thật phù hợp khi bạn có thể làm một chiếc bánh sinh nhật của riêng mình. Bắt đầu bằng cách trộn hỗn hợp bánh của bạn, sau đó nướng trong lò nướng và cuối cùng là trang trí. Chúc sinh nhật vui vẻ và hạnh phúc');
 })
-
+function start(){
+    document.getElementById('.stage1').fadeOut();
+    fire_modal('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/cake_modal.png','Hãy làm một chiếc bánh!','Vì hôm nay là sinh nhật của bạn, tôi thấy thật phù hợp khi bạn có thể làm một chiếc bánh sinh nhật của riêng mình. Bắt đầu bằng cách trộn hỗn hợp bánh của bạn, sau đó nướng trong lò nướng và cuối cùng là trang trí. Chúc sinh nhật vui vẻ và hạnh phúc');
+}
 progress = 1;
 
 $('.modal_content button').click(function(){
