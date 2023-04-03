@@ -8,7 +8,7 @@ function start(){
 }
 progress = 1;
 
-$('.modal_content button').click(function(){
+$('.modal_content button').ontouchstart(function(){
     progress++;
     close_modal(progress)
 })
